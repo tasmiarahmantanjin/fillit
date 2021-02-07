@@ -11,18 +11,18 @@ Algorithms Practice - Fit tetris pieces into the smallest square possible.
 
 You'll have to clone the Fillit repo:
 
-        git clone https://github.com/tasmiarahmantanjin/fillit
+	git clone https://github.com/tasmiarahmantanjin/fillit
 
 Then you'll have to compile the project & use test input :
 
-        1. cd fillit
-        2. make
-		3. ./fillit tetrimino_input_file
-        
+	1. cd fillit
+	2. make
+	3. ./fillit tetrimino_input_file
+
 Now you can run <code>./fillit <tetriminos_file></code>
 
-        E N J O Y ^^
-        
+	^^ E N J O Y ^^
+
 ## ✅ Valid Input Files & Rules
 	1. Precisely 4 lines of 4 characters (4 x 4 square), each followed by a new line
 	2. A Tetrimino is a classic piece of Tetris composed of 4 blocks
