@@ -5,7 +5,7 @@
 Algorithms Practice - Fit tetris pieces into the smallest square possible.
 
 ## ✅ Technology Used!
-<code>C Language | Makefile | Backtracking Algorithm</code>
+<code>C Language | Makefile | | Headerfile | Backtracking Algorithm</code>
 
 ## ✅ How to use
 
